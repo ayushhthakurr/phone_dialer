@@ -23,7 +23,7 @@ This is a Phone Dialer application built using Flutter. The app allows users to 
 
 ## Technical Implementation
 - **Framework:** Flutter
-- **State Management:** Provider (or any chosen method)
+- **State Management:** Provider
 - **Dependencies:**
     - `call_log` (for accessing call logs)
     - `contacts_service` (for managing contacts)
